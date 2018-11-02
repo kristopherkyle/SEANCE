@@ -1,0 +1,7 @@
+polarity_nouns	0.858
+pleasantness_nouns_neg_3	0.788
+aptitude_nouns	0.784
+polarity_neg_3	0.572
+attention_neg_3	0.542
+Joy_NRC_nouns	0.463
+Positiv_GI_nouns	0.343

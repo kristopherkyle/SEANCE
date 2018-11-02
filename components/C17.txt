@@ -1,0 +1,4 @@
+Name_GI_adjectives_neg_3	0.864
+Polit_GI_adjectives_neg_3	0.86
+Econ_GI_adjectives	0.833
+Econ_GI_neg_3	0.572

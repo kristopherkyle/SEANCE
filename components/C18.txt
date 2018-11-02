@@ -1,0 +1,6 @@
+Quan_GI	0.758
+Undrst_GI	0.652
+Quan_GI_nouns	0.646
+Ovrst_GI	0.565
+If_Lasswell	0.526
+Surelw_Lasswell_nouns_neg_3	0.417

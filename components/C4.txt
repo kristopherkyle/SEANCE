@@ -1,0 +1,9 @@
+lu_hui_pos_nwords_adjectives	0.685
+vader_positive	0.68
+Virtue_GI_neg_3	0.674
+Positiv_GI_adjectives	0.673
+lu_hui_pos_nwords_neg_3	0.652
+Positiv_GI_neg_3	0.645
+Virtue_GI_adjectives	0.636
+vader_neutral	-0.545
+Posaff_Lasswell_adjectives	0.431

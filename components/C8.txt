@@ -1,0 +1,7 @@
+Polit_2_GI	0.851
+Polit_2_GI_nouns_neg_3	0.829
+Polit_GI_nouns_neg_3	0.799
+Polit_GI	0.75
+Powtot_Lasswell	0.575
+Powaupt_Lasswell	0.534
+Doctrin_GI	0.477

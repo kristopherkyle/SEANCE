@@ -1,0 +1,5 @@
+Trust_NRC_verbs	0.805
+Joy_NRC_verbs	0.788
+Positive_NRC_verbs	0.765
+Trust_NRC	0.504
+Positive_NRC_neg_3	0.489

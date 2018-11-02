@@ -1,0 +1,38 @@
+Admiration/Awe_GALC	admir*	ador*	awe*	dazed	dazzl*	enrapt*	enthrall*	fascina*	marveli*	rapt*	reveren*	spellbound	wonder*	worship*
+Amusement_GALC	amus*	fun*	humor*	laugh*	play*	rollick*	smil*
+Anger_GALC	anger	angr*	cross*	enrag*	furious	fury	incens*	infuriat*	irate	ire*	mad*	rag*	resent*	temper	wrath*	wrought*
+Anxiety_GALC	anguish*	anxi*	apprehens*	diffiden*	jitter*	nervous*	trepida*	wari*	wary	worried*	worry*
+Beingtouched_GALC	affect*	mov*	touch*
+Boredom_GALC	bor*	ennui	indifferen*	languor*	tedi*	wear*
+Compassion_GALC	commiser*	compass*	empath*	pit*
+Contempt_GALC	contempt*	denigr*	deprec*	deris*	despi*	disdain*	scorn*
+Contentment_GALC	comfortabl*	content*	satisf*
+Desperation_GALC	deject*	desolat*	despair*	desperat*	despond*	disconsolat*	hopeless*	inconsol*
+Disappointment_GALC	comedown	disappoint*	discontent*	disenchant*	disgruntl*	disillusion*	frustrat*	jilt*	letdown	resign*	sour*	thwart*
+Disgust_GALC	abhor*	avers*	detest*	disgust*	dislik*	disrelish	distast*	loath*	nause*	queas*	repugn*	repuls*	revolt*	sicken*
+Dissatisfaction_GALC	dissatisf*	unhapp*
+Envy_GALC	envious*	envy*
+Fear_GALC	afraid*	aghast*	alarm*	dread*	fear*	fright*	horr*	panic*	scare*	terror*
+Feelinglove_GALC	affection*	fond*	love*	friend*	tender*
+Gratitude_GALC	grat*	thank*
+Guilt_GALC	blame*	contriti*	guilt*	remorse*	repent*
+Happiness_GALC	cheer*	bliss*	delect*	delight*	enchant*	enjoy*	felicit*	happ*	merr*
+Hatred_GALC	acrimon*	hat*	rancor*
+Hope_GALC	buoyan*	confident*	faith*	hop*	optim*
+Humility_GALC	devout*	humility
+Interest/Enthusiasm_GALC	absor*	alert	animat*	ardor*	attenti*	curi*	eager*	enrapt*	engross*	enthusias*	ferv*	interes*	zeal*
+Irritation_GALC	annoy*	exasperat*	grump*	indign*	irrita*	sullen*	vex*
+Jealousy_GALC	covetous*	jealous*
+Joy_GALC	ecstat*	elat*	euphor*	exalt*	exhilar*	exult*	flush*	glee*	joy*	jubil*	overjoyed	ravish*	rejoic*
+Longing_GALC	crav*	daydream*	desir*	fanta*	hanker*	hark*	homesick*	long*	nostalg*	pin*	regret*	wish*	wistf*	yearn*
+Lust_GALC	carnal	lust*	climax	ecsta*	orgas*	sensu*	sexual*
+Pleasure/Enjoyment_GALC	enjoy*	delight*	glow*	pleas*	thrill*	zest*
+Pride_GALC	pride*	proud*
+Relaxation/Serenity_GALC	ease*	calm*	carefree	casual	detach*	dispassion*	equanim*	eventemper*	laid-back	peace*	placid*	poise*	relax*	seren*	tranquil*	unruffl*
+Relief_GALC	relie*
+Sadness_GALC	chagrin*	deject*	dole*	gloom*	glum*	grie*	hopeles*	melancho*	mourn*	sad*	sorrow*	tear*	weep*
+Shame_GALC	abash*	asham*	crush*	disgrace*	embarras*	humili*	shame*
+Surprise_GALC	amaze*	astonish*	dumbfound*	startl*	stunn*	surpris*	aback	thunderstruck	wonder*
+Tension/Stress_GALC	activ*	agit*	discomfort*	distress*	strain*	stress*	tense*
+Positive_GALC	agree*	excellent	fair	fine	good	nice	positiv*
+Negative_GALC	bad	disagree*	lousy	negativ*	unpleas*

@@ -1,0 +1,4 @@
+Object_GI_neg_3	0.846
+Object_GI_nouns	0.815
+Beingtouched_GALC_neg_3	0.631
+Com_GI	0.602

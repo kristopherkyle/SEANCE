@@ -1,0 +1,5 @@
+Powloss_Lasswell_verbs	0.813
+Powloss_Lasswell_neg_3	0.793
+Fail_GI_verbs	0.77
+Fail_GI_neg_3	0.739
+Rsptot_Lasswell_verbs_neg_3	0.324

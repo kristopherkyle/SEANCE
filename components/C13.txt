@@ -1,0 +1,4 @@
+Rspoth_Lasswell_nouns	0.902
+Rsptot_Lasswell_nouns	0.895
+Rspoth_Lasswell	0.884
+Rsptot_Lasswell_neg_3	0.865

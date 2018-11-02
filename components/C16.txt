@@ -1,0 +1,4 @@
+Wlbphys_Lasswell_nouns_neg_3	0.891
+Wlbtot_Lasswell_nouns	0.87
+Wlbphys_Lasswell	0.806
+Wlbtot_Lasswell	0.748

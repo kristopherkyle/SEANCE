@@ -1,0 +1,8 @@
+Disgust_NRC_nouns	0.769
+Negative_NRC_nouns	0.732
+Disgust_NRC_neg_3	0.668
+Negative_NRC_neg_3	0.646
+Fear_NRC_neg_3	0.629
+Anger_NRC_neg_3	0.596
+Sadness_NRC_neg_3	0.495
+Negative_NRC_verbs	0.34

@@ -1,0 +1,3 @@
+lu_hui_pos_perc_verbs	0.886
+lu_hui_neg_perc_verbs	-0.872
+lu_hui_pos_nwords_verbs	0.745

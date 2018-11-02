@@ -1,0 +1,4 @@
+lu_hui_neg_perc_nouns	-0.863
+lu_hui_pos_perc_nouns	0.857
+lu_hui_pos_nwords_nouns	0.707
+lu_hui_neg_nwords_nouns_neg_3	-0.458

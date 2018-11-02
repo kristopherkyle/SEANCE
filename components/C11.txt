@@ -1,0 +1,5 @@
+Rcgain_Lasswell_adverbs_neg_3	0.908
+Hostile_GI_adverbs_neg_3	0.905
+Negativ_GI_adverbs_neg_3	0.756
+Rcgain_Lasswell	0.636
+Surelw_Lasswell_adverbs	0.577

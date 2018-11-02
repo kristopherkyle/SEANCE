@@ -1,0 +1,4 @@
+polarity_verbs	0.933
+aptitude_verbs	0.856
+pleasantness_verbs	0.845
+attention_verbs	0.733

@@ -1,0 +1,11 @@
+Rcethic_Lasswell_verbs_neg_3	0.88
+Need_GI_verbs_neg_3	0.868
+Need_GI	0.83
+Rcethic_Lasswell	0.737
+Weak_GI_verbs	0.722
+Rctot_Lasswell	0.653
+Rel_GI_neg_3	0.63
+Weak_GI	0.572
+Solve_GI	0.531
+Passive_GI_neg_3	0.511
+Sv_GI	0.444

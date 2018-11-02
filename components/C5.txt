@@ -1,0 +1,8 @@
+Joy_NRC_adjectives	0.801
+Anticipation_NRC_adjectives	0.797
+Surprise_NRC_adjectives	0.76
+Trust_NRC_adjectives	0.698
+Positive_NRC_adjectives	0.691
+Valence_nwords_adjectives_neg_3	0.568
+Joy_NRC_neg_3	0.471
+Anticipation_NRC_neg_3	0.466

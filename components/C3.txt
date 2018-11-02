@@ -1,0 +1,9 @@
+Ought_GI_verbs_neg_3	0.818
+Try_GI_verbs_neg_3	0.81
+Ought_GI	0.759
+Try_GI	0.759
+Travel_GI_verbs_neg_3	0.745
+Travel_GI	0.649
+Dav_GI_verbs_neg_3	0.576
+Dav_GI_neg_3	0.509
+Active_GI_verbs_neg_3	0.445

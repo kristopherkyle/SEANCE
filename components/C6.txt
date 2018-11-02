@@ -1,0 +1,9 @@
+Afftot_Lasswell_nouns_neg_3	0.905
+Afftot_Lasswell_neg_3	0.871
+Affpt_Lasswell_neg_3	0.816
+Kin_2_GI_nouns_neg_3	0.795
+Affil_GI_nouns	0.619
+Affoth_Lasswell_neg_3	0.599
+Affil_GI_neg_3	0.487
+Male_GI	0.365
+Dominance_nwords	0.358
